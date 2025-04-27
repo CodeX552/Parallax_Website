@@ -8,7 +8,7 @@ This project demonstrates how to create stunning scrolling effects where backgro
 - Smooth parallax scrolling effects
 - Fully responsive design
 - Minimal and clean UI
-- Pure HTML and CSS (no JavaScript)
+- Pure HTML and CSS
 - Easy to customize and extend
 
 ## Demo
